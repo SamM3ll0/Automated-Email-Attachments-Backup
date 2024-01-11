@@ -1,8 +1,8 @@
-#Automated Email Attachments Backup
+# Automated Email Attachments Backup
 
 This Google Apps Script automates saving email attachments to Google Drive and records date, time, and file URL in a Google Sheet. Avoids duplicates and streamlines organization.
 
-##Usage:
+## Usage:
   1. Replace placeholders in the code with your Google Drive folder ID and Google Sheets URL.
   2. Adjust the search query (`searchQuery`) for specific criteria.
   3. Run the script for permissions and initiate automation.
